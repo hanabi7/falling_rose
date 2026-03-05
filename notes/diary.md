@@ -13,10 +13,10 @@
 
 ## 对话记录
 
-### 2026-03-05 19:20
-- 用户提供了完整的世界观设定
-- 已保存至:
-  - `notes/worldbuilding.md` - 核心世界观
-  - `notes/factions.md` - 城邦设定
-  - `notes/technology.md` - 技术设施
-- 等待后续人设和故事信息
+### 2026-03-05 19:26
+- 用户提供了完整的故事大纲《坠落时遇见玫瑰》
+- 已保存:
+  - `scripts/synopsis.md` - 故事梗概
+  - `characters/main_characters.md` - 林深、星遥、弥生人设
+  - `scripts/episode_01.md` - 第一集完整剧本
+- 项目框架基本完成，等待后续剧集或修改意见
