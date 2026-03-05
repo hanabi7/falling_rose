@@ -13,10 +13,9 @@
 
 ## 对话记录
 
-### 2026-03-05 19:26
-- 用户提供了完整的故事大纲《坠落时遇见玫瑰》
+### 2026-03-05 19:33
+- 补充父亲和母亲详细人设
 - 已保存:
-  - `scripts/synopsis.md` - 故事梗概
-  - `characters/main_characters.md` - 林深、星遥、弥生人设
-  - `scripts/episode_01.md` - 第一集完整剧本
-- 项目框架基本完成，等待后续剧集或修改意见
+  - `characters/father.md` - 星遥之父完整人设
+  - `characters/mother.md` - 林深之母完整人设
+- 更新 `characters/main_characters.md` 添加次要角色链接
